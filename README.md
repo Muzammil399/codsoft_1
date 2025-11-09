@@ -35,4 +35,4 @@ The goal is to predict one of **27 possible movie genres** — such as *Drama*, 
    The model is tested on separate data and produces detailed metrics and accuracy scores.
 
 ---
-
+Dataset link "https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb"
